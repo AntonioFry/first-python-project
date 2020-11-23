@@ -4,5 +4,8 @@ age = int(input("What is your age? "))
 
 health = 10
 
-is_older = int(age) >= 18:
-  print("You are old enough!")
+if age >= 18:
+  print("You are old enough!"):
+else:
+  print("You are not old enough to play.")
+
